@@ -13,78 +13,64 @@
   <a href="https://github.com/TheKhadaJhin">GitHub</a>
 </p>
 
-About me
+## About me
 
 I'm a Computer Engineering professional based in Argentina with hands-on experience building end-to-end web applications, backend services, REST APIs, databases, and process automation.
 
-I build backend and data-driven solutions with Python, FastAPI, SQL, PostgreSQL, MongoDB, and SQLite.
+- I build backend and data-driven solutions with **Python, FastAPI, SQL, PostgreSQL, MongoDB, and SQLite**.
+- I develop responsive interfaces with **JavaScript, React, HTML, and CSS**.
+- I enjoy turning real business needs into reliable software, structured data flows, and practical tools.
+- I have experience deploying and maintaining applications using **Git/GitHub, Render, Vercel, Netlify, Cloudflare Pages, and MongoDB Atlas**.
+- I'm currently strengthening my portfolio in **data engineering, analytics, automated testing, and scalable backend systems**.
+- I'm open to **remote junior software engineering, backend, data, and technical support opportunities**.
 
-I develop responsive interfaces with JavaScript, React, HTML, and CSS.
+## Technical skills
 
-I enjoy turning real business needs into reliable software, structured data flows, and practical tools.
+**Languages:** Python, SQL, JavaScript, C, C++, Scala  
+**Backend:** FastAPI, REST APIs, Uvicorn, business-rule validation, automation  
+**Data:** PostgreSQL, MongoDB, SQLite, data modeling, validation, reporting  
+**Frontend:** React, HTML, CSS, responsive design  
+**Tools:** Git, GitHub, VS Code, Postman, Excel, Power BI, Confluence  
+**Deployment:** Render, Vercel, Netlify, Cloudflare Pages, GitHub Pages, MongoDB Atlas
 
-I have experience deploying and maintaining applications using Git/GitHub, Render, Vercel, Netlify, Cloudflare Pages, and MongoDB Atlas.
+## Featured projects
 
-I'm currently strengthening my portfolio in data engineering, analytics, automated testing, and scalable backend systems.
-
-I'm open to remote junior software engineering, backend, data, and technical support opportunities.
-
-Technical skills
-
-Languages: Python, SQL, JavaScript, C, C++, Scala
-Backend: FastAPI, REST APIs, Uvicorn, business-rule validation, automation
-Data: PostgreSQL, MongoDB, SQLite, data modeling, validation, reporting
-Frontend: React, HTML, CSS, responsive design
-Tools: Git, GitHub, VS Code, Postman, Excel, Power BI, Confluence
-Deployment: Render, Vercel, Netlify, Cloudflare Pages, GitHub Pages, MongoDB Atlas
-
-Featured projects
-
-Apart Rincon - Full-stack rental platform
+### Apart Rincon - Full-stack rental platform
 
 A full-stack application for a temporary-rental business, including a public property catalogue and a private administration system.
 
-React and Vite frontend
+- React and Vite frontend
+- FastAPI and SQLite backend
+- Property and gallery management
+- Private reservation calendar
+- Image uploads and administrative workflows
+- WhatsApp contact integration
 
-FastAPI and SQLite backend
+[Repository](https://github.com/TheKhadaJhin/apart-rincon2) · [Live demo](https://apart-rincon2.vercel.app)
 
-Property and gallery management
-
-Private reservation calendar
-
-Image uploads and administrative workflows
-
-WhatsApp contact integration
-
-Repository · Live demo
-
-Bebotes - Responsive business landing page
+### Bebotes - Responsive business landing page
 
 A responsive landing page developed for a local business, focused on clear presentation, mobile usability, and direct customer contact.
 
-Semantic HTML
+- Semantic HTML
+- Responsive CSS
+- JavaScript interactions
+- WhatsApp integration
 
-Responsive CSS
+[Repository](https://github.com/TheKhadaJhin/bebotes-landing)
 
-JavaScript interactions
+## Currently building
 
-WhatsApp integration
+- A **PostgreSQL sales analytics case study** using joins, CTEs, window functions, and business KPIs.
+- A **FastAPI and PostgreSQL REST API** with authentication, validation, pagination, tests, and Docker.
+- A **Python ETL and data-quality pipeline** that cleans, validates, and loads data into PostgreSQL.
 
-Repository
+## Languages
 
-Currently building
+- Spanish: Native
+- English: C1
 
-A PostgreSQL sales analytics case study using joins, CTEs, window functions, and business KPIs.
-
-A FastAPI and PostgreSQL REST API with authentication, validation, pagination, tests, and Docker.
-
-A Python ETL and data-quality pipeline that cleans, validates, and loads data into PostgreSQL.
-
-Languages
-
-Spanish: Native
-
-English: C1
+---
 
 <p align="center">
   I enjoy learning deeply, solving practical problems, and building software that people can actually use.
