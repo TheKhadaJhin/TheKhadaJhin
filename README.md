@@ -46,7 +46,7 @@ A full-stack application for a temporary-rental business, including a public pro
 - Image uploads and administrative workflows
 - WhatsApp contact integration
 
-[Repository](https://github.com/TheKhadaJhin/apart-rincon2) · [Live demo](https://apart-rincon2.vercel.app)
+[Repository](https://github.com/TheKhadaJhin/apart-rincon) · [Live demo](https://apart-rincon2.vercel.app)
 
 ### Bebotes - Responsive business landing page
 
