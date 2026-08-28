@@ -1,11 +1,15 @@
-<h1 align="center">Hi, I'm Mario Fuentes</h1>
+<h1 align="center">Mario Fuentes</h1>
 
 <p align="center">
-  <strong>Computer Engineering | Backend Development | Data & Automation</strong>
+  <strong>Computer Engineering · Python Backend · Data Engineering</strong>
 </p>
 
 <p align="center">
-  Python · SQL · FastAPI · PostgreSQL · MongoDB · JavaScript · React · Git
+  Python · SQL · FastAPI · PostgreSQL · MongoDB · dbt · React · Docker
+</p>
+
+<p align="center">
+  Based in Argentina · Spanish native · English C1 · Open to remote opportunities
 </p>
 
 <p align="center">
@@ -13,65 +17,76 @@
   <a href="https://github.com/TheKhadaJhin">GitHub</a>
 </p>
 
-## About me
+## Profile
 
-I'm a Computer Engineering professional based in Argentina with hands-on experience building end-to-end web applications, backend services, REST APIs, databases, and process automation.
+I'm a Computer Engineering professional focused on building reliable backend and data products. I turn business requirements into tested APIs, data pipelines, monitoring services, analytical models, and practical full-stack applications.
 
-- I build backend and data-driven solutions with **Python, FastAPI, SQL, PostgreSQL, MongoDB, and SQLite**.
-- I develop responsive interfaces with **JavaScript, React, HTML, and CSS**.
-- I enjoy turning real business needs into reliable software, structured data flows, and practical tools.
-- I have experience deploying and maintaining applications using **Git/GitHub, Render, Vercel, Netlify, Cloudflare Pages, and MongoDB Atlas**.
-- I'm currently strengthening my portfolio in **data engineering, analytics, automated testing, and scalable backend systems**.
-- I'm open to **remote junior software engineering, backend, data, and technical support opportunities**.
+- Backend development with **Python, FastAPI, async I/O, REST APIs, SQLAlchemy, and Alembic**.
+- Data work with **SQL, PostgreSQL, SQLite, MongoDB, dbt, validation, reporting, and visualization**.
+- Production-minded delivery through **automated testing, CI, security scanning, observability, documentation, and Docker**.
+- Experience developing end-to-end software for real businesses, from requirements and data modeling to deployment and maintenance.
 
-## Technical skills
+## Core stack
 
-**Languages:** Python, SQL, JavaScript, C, C++, Scala  
-**Backend:** FastAPI, REST APIs, Uvicorn, business-rule validation, automation  
-**Data:** PostgreSQL, MongoDB, SQLite, data modeling, validation, reporting  
-**Frontend:** React, HTML, CSS, responsive design  
-**Tools:** Git, GitHub, VS Code, Postman, Excel, Power BI, Confluence  
-**Deployment:** Render, Vercel, Netlify, Cloudflare Pages, GitHub Pages, MongoDB Atlas
+| Area | Technologies and practices |
+| --- | --- |
+| Backend | Python, FastAPI, AsyncIO, HTTPX, REST APIs, SQLAlchemy, Alembic, Uvicorn |
+| Data | SQL, PostgreSQL, SQLite, MongoDB, dbt, pandas, data modeling, ETL, data quality |
+| Quality | pytest, mypy, Ruff, Bandit, pip-audit, CodeQL, contract and integration testing |
+| Observability | Prometheus metrics, health checks, structured logs, audit trails |
+| Frontend | React, JavaScript, HTML, CSS, Streamlit |
+| Delivery | Git, GitHub Actions, Docker, Render, Vercel, Cloudflare Pages |
 
 ## Featured projects
 
-### Apart Rincon - Full-stack rental platform
+### [PulseWatch API Monitor](https://github.com/TheKhadaJhin/pulsewatch-api-monitor)
 
-A full-stack application for a temporary-rental business, including a public property catalogue and a private administration system.
+Production-oriented API monitoring backend with asynchronous checks, concurrency controls, timeouts, retries, incident lifecycle management, signed webhook delivery, audit logs, retention policies, SSRF defenses, Prometheus metrics, and a management dashboard.
 
-- React and Vite frontend
-- FastAPI and SQLite backend
-- Property and gallery management
-- Private reservation calendar
-- Image uploads and administrative workflows
-- WhatsApp contact integration
+**Stack:** Python, FastAPI, AsyncIO, HTTPX, SQLAlchemy, PostgreSQL/SQLite, Alembic, Docker, GitHub Actions  
+**Quality:** 101 tests · 97.36% coverage · CI, CodeQL, dependency auditing and container validation
 
-[Repository](https://github.com/TheKhadaJhin/apart-rincon) · [Live demo](https://apart-rincon2.vercel.app)
+---
 
-### Bebotes - Responsive business landing page
+### [LATAM Market Intelligence](https://github.com/TheKhadaJhin/latam-market-intelligence)
 
-A responsive landing page developed for a local business, focused on clear presentation, mobile usability, and direct customer contact.
+End-to-end data product that transforms real World Bank data into an explainable market comparison for Argentina, Brazil, Chile, Colombia, Mexico, and Peru. It includes 518 observations, eight indicators, three decision scenarios, analytical marts, a tested API, and an executive dashboard.
 
-- Semantic HTML
-- Responsive CSS
-- JavaScript interactions
-- WhatsApp integration
+**Stack:** Python, FastAPI, SQLAlchemy, PostgreSQL/SQLite, dbt, Streamlit, Alembic, Docker  
+**Quality:** 36 tests · 92.52% branch coverage · CI, CodeQL, security and reproducibility controls
 
-[Repository](https://github.com/TheKhadaJhin/bebotes-landing)
+---
 
-## Currently building
+### [Rental Data Analytics](https://github.com/TheKhadaJhin/rental-data-analytics)
 
-- A **PostgreSQL sales analytics case study** using joins, CTEs, window functions, and business KPIs.
-- A **FastAPI and PostgreSQL REST API** with authentication, validation, pagination, tests, and Docker.
-- A **Python ETL and data-quality pipeline** that cleans, validates, and loads data into PostgreSQL.
+Reproducible SQL and Python analytics case study that turns synthetic short-term-rental data into business KPIs, validated datasets, charts, and an executive summary. It demonstrates joins, CTEs, window functions, aggregations, data validation, and automated exports.
 
-## Languages
+**Stack:** SQL, Python, SQLite, pandas, analytical modeling, automated testing
 
-- Spanish: Native
-- English: C1
+---
+
+### [Apart Rincón](https://github.com/TheKhadaJhin/apart-rincon)
+
+Full-stack platform developed for a real temporary-rental business. It combines a responsive public property catalogue with private administration workflows for properties, galleries, image uploads, reservations, availability, and customer contact.
+
+**Stack:** React, Vite, JavaScript, FastAPI, SQLite, responsive design
+
+## Selected client work
+
+### CITI Informática — E-commerce platform
+
+Developed an end-to-end commerce platform for an IT retailer with authentication and roles, product catalogue management, filters, cart and checkout flows, orders, payment options, Excel automation, administrative workflows, and API documentation.
+
+**Stack:** FastAPI, MongoDB, React, JavaScript, REST APIs, Excel automation
+
+## Education and languages
+
+- **Computer Engineering**, Universidad de Chile — 2021–2026
+- **Spanish:** Native
+- **English:** C1
 
 ---
 
 <p align="center">
-  I enjoy learning deeply, solving practical problems, and building software that people can actually use.
+  I enjoy understanding real problems, designing maintainable solutions, and taking software from an idea to a working product.
 </p>
